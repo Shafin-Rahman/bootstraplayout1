@@ -37,12 +37,12 @@
     }
     .sidebar {
         min-height: 100px;
-        margin: 10px 0;  
+        margin: 10px 0;
     }
-     .pdleft_imp{
-    padding-left: 0px ;
-}
-    
+    .pdleft_imp {
+        padding-left: 0px;
+    }
+
 }
 
 /*// Medium devices (tablets, 768px and up)*/
@@ -63,9 +63,12 @@
         margin: 10px 0;
 
     }
-    .pdleft_imp{
-    padding-left: 0px ;
-}
+    .pdleft_imp {
+        padding-left: 0px;
+    }
+    .pdright_imp {
+        padding-right: 0;
+    }
 
 }
 
