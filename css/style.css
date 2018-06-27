@@ -1,0 +1,78 @@
+.bg_color {
+    background-color: #9BC3FC;
+}
+
+.content_color {
+    background-color: #CCE0FC;
+}
+
+.pdright {
+    padding-right: 0;
+}
+
+.pdleft {
+    padding-left: 0;
+}
+
+h4 {
+    text-align: center;
+}
+
+/*header start*/
+
+header {
+    background-color: #9BC3FC;
+    min-height: 100px;
+    padding: 20px 0 5px 0;
+}
+
+.brand,
+.optional_nav,
+.tools {
+    min-height: 70px;
+    background-color: #CCE0FC;
+}
+
+/*hero start*/
+
+.hero,
+.content,
+.footer {
+    margin: 20px 0;
+}
+
+.hero_feature,
+.hero_action {
+    min-height: 100px;
+    margin: 30px 0 10px 0;
+}
+
+.ad {
+    min-height: 140px;
+    padding-bottom: 5px;
+    background-color: #69A6DE;
+}
+
+/*content start*/
+
+.article_feature,
+.article_list {
+    min-height: 500px;
+    margin: 70px 0 20px 0;
+}
+
+.sidebar {
+    min-height: 500px;
+    padding: 70px 0 20px 0;
+}
+
+.sidebar_content {
+    min-height: 500px;
+    margin: 0 10px 0 20px;
+}
+
+/*footer start*/
+
+.footer {
+    min-height: 100px;
+}
